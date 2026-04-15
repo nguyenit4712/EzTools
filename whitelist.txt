@@ -16,3 +16,7 @@ com.reveny.vbmetafix.service
 io.github.vvb2060.magisk
 com.multidevices.eztool
 com.paypal.android.p2pmobile
+com.justplay.app
+com.scopely.monopolygo
+air.com.buffalo_studios.newflashbingo
+com.MoneyBingo.LuckyRewards.CashGame.BigWinner
