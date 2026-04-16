@@ -20,3 +20,4 @@ com.justplay.app
 com.scopely.monopolygo
 air.com.buffalo_studios.newflashbingo
 com.MoneyBingo.LuckyRewards.CashGame.BigWinner
+io.github.a13e300.ksuwebui
