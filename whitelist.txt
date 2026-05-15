@@ -17,3 +17,4 @@ io.github.vvb2060.magisk
 com.multidevices.eztool
 com.paypal.android.p2pmobile
 io.github.a13e300.ksuwebui
+kwlkkw.odbaum.pebxnq
